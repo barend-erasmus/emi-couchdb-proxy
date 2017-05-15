@@ -3,7 +3,7 @@ const config = {
         uri: 'http://service-portal.euromonitor.com/AuthApi'
     },
     couchdb: {
-        uri: '192.168.46.84:5984',
+        uri: 'couchdb:5984',
         username: 'admin',
         pasword: 'password'
     },
